@@ -388,6 +388,12 @@ img{
 .wrapper .buttons:nth-child(4):hover .icons{
   background-color: #333;
 }
+.wrapper .buttons:nth-child(5):hover .icons{
+  background-color: #e1306c;
+}
+.wrapper .buttons:nth-child(6):hover .icons{
+  background-color: #FF0000
+}
 
 .wrapper .buttons .icons i{
   font-size: 1.6rem;
