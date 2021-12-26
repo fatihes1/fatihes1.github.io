@@ -8,7 +8,7 @@
 
 /*===== Colores =====*/
 :root{
-  --first-color: #1687a7;
+  --first-color: #FF5051;
   --second-color: #0E2431;
 }
 
@@ -393,6 +393,9 @@ img{
 }
 .wrapper .buttons:nth-child(6):hover .icons{
   background-color: #FF0000
+}
+.wrapper .buttons:nth-child(7):hover .icons{
+  background-color: #1A8CD8
 }
 
 .wrapper .buttons .icons i{
